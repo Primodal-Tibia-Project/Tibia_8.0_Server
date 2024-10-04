@@ -19,7 +19,7 @@ _Project to make as close as possible Global Tibia 8.0 Experience_
 - Addon Missions
 - Balancing Monsters
 
-## To Remove for COnsistency with Tibia 8.0
+## To Remove for Consistency with Tibia 8.0
 - Quest spike sword add in Rookgaard!  
 - Teleport Trainer Dummy same as Kasteria.(Removed?)
 - Npc Casino in Thais depot. (REMOVED)
