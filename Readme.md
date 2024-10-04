@@ -1,5 +1,7 @@
 # RL8.0
 _Project to make as close as possible Global Tibia 8.0 Experience_
+_tldr; should be compilable on linux (ubuntu 24 for sure), and propably on windows_
+
 
 ## Instalation:
 - install all TFS libraries
@@ -21,8 +23,8 @@ _Project to make as close as possible Global Tibia 8.0 Experience_
 
 ## To Remove for Consistency with Tibia 8.0
 - Quest spike sword add in Rookgaard!  
-- Teleport Trainer Dummy same as Kasteria.(Removed?)
+- Teleport Trainer Dummy same as Kasteria.(Removed? wasnt able to find it on map)
 - Npc Casino in Thais depot. (REMOVED)
-- Npc's Dijinn's in Thais. (Removed?)
+- Npc's Dijinn's in Thais. (Removed? wasnt able to find it on map)
 - Runes for sale on npc's
 - Raid player summon (player system with skull and player loot).

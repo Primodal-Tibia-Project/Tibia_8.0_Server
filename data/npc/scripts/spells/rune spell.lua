@@ -55,7 +55,6 @@ local spells = {
 }
 
 
-local mensaje
 function creatureSayCallback(cid, type, msg)
     if not npcHandler:isFocused(cid) then
         return false
